@@ -1,3 +1,6 @@
+# Ignore Secrets File
+audio_controller/spotify/credentials.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
