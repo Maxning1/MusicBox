@@ -8,3 +8,4 @@ Hosts of rooms can decide on settings such as whether guest can control the musi
 - Webpack
 - Babel
 - Spotify API
+- Sqlite
